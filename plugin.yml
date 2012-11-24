@@ -3,6 +3,6 @@ main: me.zan.RiskTaker.RiskTaker
 author: 258skyguy
 version: 0.1
 commands:
-  RiskTaker:
+  Risk:
     description: Take a risk for a reward
     usage: /<command>
