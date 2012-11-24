@@ -1,9 +1,8 @@
-name: BlockChanger
-main: me.insanj.BlockChanger.BlockChanger
-author: insanj
-version: 1.1
+name: RiskTaker 
+main: me.zan.RiskTaker.RiskTaker
+author: 258skyguy
+version: 0.1
 commands:
-  BlockChanger:
-    description: Makes all blocks damaged set to wool.
-    permissions: BlockChanger.use
+  RiskTaker:
+    description: Take a risk for a reward
     usage: /<command>
