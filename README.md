@@ -14,6 +14,9 @@ What happens?
 ==========
 
 1 chances /15 diamond + strike 
+
 3 chances /15 fire 
+
 3 chances /15 explode
+
 8 chances /15 random item
